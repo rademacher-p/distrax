@@ -4,4 +4,5 @@ jax>=0.1.55
 jaxlib>=0.1.67
 numpy>=1.23.0,<2
 setuptools;python_version>="3.12"
-tensorflow-probability>=0.15.0
+# tensorflow-probability>=0.15.0
+tfp-nightly==0.26.0.dev20250808
